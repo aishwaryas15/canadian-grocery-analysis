@@ -1,0 +1,16 @@
+company,year,revenue_billions_cad,net_profit_billions_cad,profit_margin_percent
+Loblaws,2020,56.5,1.91,3.4
+Loblaws,2021,59.5,2.09,3.5
+Loblaws,2022,61.0,2.16,3.5
+Loblaws,2023,59.5,2.19,3.7
+Loblaws,2024,63.9,2.67,4.2
+Sobeys,2020,26.2,0.52,2.0
+Sobeys,2021,27.8,0.64,2.3
+Sobeys,2022,29.6,0.68,2.3
+Sobeys,2023,31.2,0.61,2.0
+Sobeys,2024,33.1,0.70,2.1
+Metro,2020,17.1,0.72,4.2
+Metro,2021,18.0,0.80,4.4
+Metro,2022,18.9,0.92,4.9
+Metro,2023,20.7,1.00,4.8
+Metro,2024,21.4,1.02,4.8

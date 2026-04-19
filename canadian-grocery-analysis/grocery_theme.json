@@ -1,0 +1,15 @@
+{
+  "name": "Grocery Inflation Dark",
+  "dataColors": ["#00D4D4", "#00A3A3", "#FF6B6B", "#FFB347", "#7EC8E3", "#A8E6CF", "#FF8C42", "#6C5CE7"],
+  "background": "#0D1117",
+  "foreground": "#00D4D4",
+  "tableAccent": "#00D4D4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#0D1117"}}}],
+        "fontColor": [{"color": {"solid": {"color": "#E6EDF3"}}}]
+      }
+    }
+  }
+}
